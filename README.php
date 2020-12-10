@@ -1,3 +1,3 @@
 <?php
-$man = $post["man"]
+$man = $_post["man"]
 ?>
