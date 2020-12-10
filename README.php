@@ -1,0 +1,3 @@
+<?php
+$man = $post["man"]
+?>
